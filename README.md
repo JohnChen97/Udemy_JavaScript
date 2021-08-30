@@ -1,7 +1,3 @@
 # Udemy_JavaScript
-# Udemy_JavaScript
-# Udemy_JavaScript
-# Udemy_JavaScript
-Udemy_JavaScript
-this is a test
-# Udemy_JavaScript
+This repository is exclusive for Udemy JavaScript course.
+
